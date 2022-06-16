@@ -1,0 +1,2 @@
+# Fireworks-Trajectory
+物理基礎で花火の軌跡を求める問題をPythonで解く
